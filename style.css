@@ -232,3 +232,11 @@ span{
         margin-top: 4rem;
     }
     }
+
+    #new{
+        font-family: 'Inter', sans-serif;
+        h1, h2 {
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 1px;}
+        
+    }    
